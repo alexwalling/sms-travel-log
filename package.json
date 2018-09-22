@@ -1,0 +1,27 @@
+{
+  "name": "sms-travel-log",
+  "version": "1.0.0",
+  "description": "An app to travel where you are in the world",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4",
+    "unirest": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexwalling/sms-travel-log.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexwalling/sms-travel-log/issues"
+  },
+  "homepage": "https://github.com/alexwalling/sms-travel-log#readme"
+}
